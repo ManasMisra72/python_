@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MANAS MISRA</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-ffc6241ed49f&psig=AOvVaw3_le3aLFdIkwfFPscZ1TB8&ust=1729952554839000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjivfrdqYkDFQAAAAAdAAAAABAE">
+
 
 
 - 🌱 I’m currently learning **Python**
