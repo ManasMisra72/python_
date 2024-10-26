@@ -1,0 +1,3 @@
+houses=list()
+while (house :=input("is ghar me kitne rooms hai"))!="Quit":
+    houses.append(house)
