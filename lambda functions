@@ -1,4 +1,6 @@
 double= lambda  x:x*x
 cube= lambda x=x*x*x
+square=lambda x=*x
 print(double(6))
 print(cube(3))
+print(square(5))
