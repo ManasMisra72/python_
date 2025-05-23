@@ -1,0 +1,8 @@
+class person:
+ name="Manas"
+  occ="developer"
+  def info(self):
+  print(f'{self.name} is a {self.occ})
+a=persomn{}
+a.name="Manas"
+a.occ="HR"
