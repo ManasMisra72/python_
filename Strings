@@ -1,0 +1,4 @@
+first_name="manas"
+last_name="misra
+full_name="manas misra"
+print(full_name)
