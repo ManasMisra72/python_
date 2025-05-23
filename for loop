@@ -1,0 +1,9 @@
+color=["red","blue","green"]
+for color in range:
+   print(color)
+for i in color:
+   print(i)
+
+
+for i in range(1,10):
+ print(i)
