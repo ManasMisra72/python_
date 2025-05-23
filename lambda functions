@@ -1,0 +1,4 @@
+double= lambda  x:x*x
+cube= lambda x=x*x*x
+print(double(6))
+print(cube(3))
