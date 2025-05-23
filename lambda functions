@@ -1,7 +1,7 @@
 double= lambda  x:x*x
 cube= lambda x:x*x*x
 square=lambda x:x*x
-area=lambda x:x*y
+area=lambda x:x*x
 print(double(6))
 print(cube(3))
 print(square(5))
