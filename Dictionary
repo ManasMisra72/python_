@@ -1,0 +1,6 @@
+dic={
+"name":"Manas"
+"class":"MCA"
+"rollno":3
+}
+print(dic(name))
